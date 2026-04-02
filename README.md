@@ -13,6 +13,7 @@ debu@21: ~/readme $ fastfetch
 
 ```csharp
 ------------------------------------------------------------
+
 username: debu_21
 whoami: cs @ bit
 pronouns: he/him/debu
@@ -28,6 +29,7 @@ favorite.anime: attack on titan
 anime.character: Levi Ackerman
 fun.fact: I debug better at night
 quote: "Give up on your dreams and die." – Levi Ackerman
+
 ------------------------------------------------------------
 ```
 
